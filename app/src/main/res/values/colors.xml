@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#8281ff</color>
+    <color name="primary_dark">#8281ff</color>
+    <color name="accent">#FF4081</color>
+    <color name="bg_main">#f0eff4</color>
+    <color name="translate">#00000000</color>
+    <color name="translate_half">#50000000</color>
+    <color name="hint_default">#ababab</color>
+
+    <color name="gray_dft">#888888</color>
+    <color name="gray_ea">#EAEAEA</color>
+    <color name="gray_6d">#6d6d6d</color>
+    <color name="gray_c8">#c8c8c8</color>
+
+    <color name="green_dft">#00ff00</color>
+    <color name="green_66">#66cdaa</color>
+    <color name="green_15">#15b514</color>
+
+    <color name="purple_dft">#8888ee</color>
+    <color name="purple_pre">#6666cc</color>
+
+    <color name="yellow_dft">#f59332</color>
+    <color name="yellow_dark">#f29711</color>
+
+    <color name="red_deep">#822418</color>
+    <color name="red_light">#FF0000</color>
+    <color name="red_dft">#f23030</color>
+
+    <color name="dividing_light">#f0f0f0</color>
+    <color name="dividing_dark">#c9c9c9</color>
+    <color name="main_tab">#f7f7f9</color>
+
+    <color name="white">#fefefe</color>
+    <color name="black_dft">#3c3c3c</color>
+
+
+</resources>

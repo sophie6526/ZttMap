@@ -1,0 +1,1 @@
+include ':app', ':BaiduMapSDK_BikeNavi_Demo', ':BaiduLoc_v7.1', ':baselib',':BaiduMap_v4.2.1'
